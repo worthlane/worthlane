@@ -4,7 +4,7 @@ My name is Artyom, some facts about me:
 #### General ⚙️
 Was born in Moscow and lived here all his life.  
 #### Education 📖
-Graduated from a specialized physics class at Moscow state school 57 (one of the best Russian schools).  
+Graduated from a specialized physics class at Moscow state school 57.  
 A first-year student in MIPT🇷🇺 (phystech-school of applied mathematics and computer science). 
 #### Experience and achievements 🖥️
 Former member of Moscow physics team. All-Russian physics olympiad prize winner. Winner of other Russian math and physics olympiads.  
