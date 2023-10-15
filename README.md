@@ -2,7 +2,8 @@
 My name is Artyom, some facts about me:  
 
 #### General ⚙️
-Was born in Moscow and lived here all his life.  
+Native city - Moscow.  
+Current city - Dolgoprudniy (Moscow region)
 #### Education 📖
 Graduated from a specialized physics class at Moscow state school 57.  
 A first-year student in MIPT🇷🇺 (phystech-school of applied mathematics and computer science). 
