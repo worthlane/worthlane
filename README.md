@@ -1,16 +1,17 @@
 ### Hi there 👋
+My name is Artyom, some facts about me:  
 
-<!--
-**worthlane/worthlane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## General ⚙️
+Was born in Moscow and lived here all his life.  
+## Education 📖
+Graduated from a specialized physics class at Moscow state school 57 (one of the best Russian schools).  
+A first-year student in MIPT🇷🇺 (phystech-school of applied mathematics and computer science). 
+## Experience and achievements 🖥️
+Former member of Moscow physics team. All-Russian physics olympiad prize winner. Winner of other Russian math and physics olympiads.  
+Participant of DED's HUAWEI course in MIPT.  
+## Interests 💬
+🏒 Hockey fan, played in several junior teams
+✈️ Like everything about planes  
+✅ Сapable of operating the airbus a320neo in MSFS2020 during all phases of flight without support  
+🔫 CS:GO (CS2) player and fan (3000 hours experience)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
