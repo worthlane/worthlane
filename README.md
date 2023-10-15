@@ -14,5 +14,6 @@ Participant of DED's HUAWEI course in MIPT.
 1) 🏒 Hockey player. Former junior teams player, now playing in Night Hockey League. Fan of Toronto Maple Leafs🍁, Washington Capitals🦅 and CSKA Moscow🐴  
 2) ✈️ Like everything about planes  
 3) ✅ Сapable of operating the airbus a320neo in MSFS2020 during all phases of flight without support  
-4) 🔫 CS:GO (CS2) player and fan (3000 hours experience)
+4) 🔫 CS:GO (CS2) player and fan (3000 hours experience)  
+5) 💪 7-8 enjoyer
 
