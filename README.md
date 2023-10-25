@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Artyom, some facts about me:  
 
+![](https://github.com/worthlane/worthlane/blob/main/gofman.jpeg)
+
 #### General ⚙️
 Native city - Moscow.  
 Current city - Long-Pond city (Moscow region)
