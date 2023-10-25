@@ -5,7 +5,7 @@ My name is Artyom, some facts about me:
 
 #### General ⚙️
 Native city - Moscow.  
-Current city - Long-Pond city (Moscow region)
+Current city - Long-Pond city (drip 😎😎😎)
 #### Education 📖
 Graduated from a specialized physics class at Moscow state school 57.  
 A first-year student in MIPT🇷🇺 (phystech-school of applied mathematics and computer science). 
