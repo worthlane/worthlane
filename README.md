@@ -13,7 +13,6 @@ A first-year student in MIPT🇷🇺 (phystech-school of applied mathematics and
 Former member of Moscow physics team.  
 All-Russian physics olympiad prize winner.  
 Winner of other Russian math and physics olympiads.  
-Participant of DED's HUAWEI course in MIPT.  
 #### Interests 💬
 1) 🏒 Hockey player. Former junior teams player, now playing in Night Hockey League.  
    Fan of Toronto Maple Leafs🍁, Washington Capitals🦅 and CSKA Moscow🐴  
